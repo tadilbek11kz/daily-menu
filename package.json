@@ -1,0 +1,25 @@
+{
+  "name": "guitar-tuner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ask-sdk": "^2.6.0",
+    "ask-sdk-core": "^2.6.0",
+    "ask-sdk-dynamodb-persistence-adapter": "^2.6.0",
+    "ask-sdk-model": "^1.9.0",
+    "ask-sdk-v1adapter": "^2.6.0",
+    "date-time": "^3.1.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4",
+    "striptags": "^3.1.1",
+    "unirest": "^0.6.0",
+    "youtube-search": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
